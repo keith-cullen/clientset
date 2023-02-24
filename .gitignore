@@ -1,0 +1,5 @@
+boilerplate.txt
+clientset
+pkg/apis/itemresource/v1/zz_generated.deepcopy.go
+pkg/apis/itemresource/v1/zz_generated.defaults.go
+pkg/client/
